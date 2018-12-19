@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add_person.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "knex": "./node_modules/.bin/knex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelChung123/connectjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelChung123/connectjs/issues"
+  },
+  "homepage": "https://github.com/MichaelChung123/connectjs#readme",
+  "dependencies": {
+    "knex": "^0.16.2"
+  }
+}
